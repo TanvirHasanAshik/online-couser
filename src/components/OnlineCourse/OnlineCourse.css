@@ -1,0 +1,13 @@
+.mainContent{
+    display: flex;
+}
+.courseContent{
+    min-height: 500px;
+    width: 70%;
+    border-right: 1px solid #ddd;
+    margin: 20px 0 0 100px;
+    
+}
+.cartContent{
+    margin: 20px 0 0 20px;
+}

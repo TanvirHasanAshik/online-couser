@@ -1,0 +1,23 @@
+*{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.header{
+    display: flex;
+    background-color: rgb(32, 3, 3);
+    
+}
+.header nav{
+    padding: 15px 0;
+    margin: auto;
+}
+nav a{
+    margin: 0px;
+    color: azure;
+    text-decoration: none;
+    padding: 15px;
+    
+}
+nav a:hover{
+    background-color:gainsboro;
+    
+}
